@@ -1,8 +1,8 @@
 {
     "name": "Lidless_Rain",
-    "version_number": "1.0",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/niraethm/Lidless-Rain",
-    "description": "Risk of Rain 2 Modpack for Lidless",
+    "description": "Please, they won’t stop turning on artifact of glass",
     "dependencies": [
         "bbepis-BepInExPack-5.4.2103",
 		"RiskofThunder-HookGenPatcher-1.2.3",
