@@ -1,7 +1,7 @@
 # Lidless Rain
 This is a modpack made with the intention to be used by the Lidless group; however, feel free to try it out!
 
-_This is our first modpack so this also counts as a test on how to make a package for Thunderstore.io_
+_This is our first modpack, so this also counts as a test on how to make a package for Thunderstore.io_
 
 ---
 We at Lidless have attempted to create an unholy abomination of a modpack that brings the chaotic fever dream of Risk of Rain 2 to a new high while trying to (somewhat) retain the spirit and feeling of the base game. 
