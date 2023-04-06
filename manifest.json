@@ -1,1 +1,9 @@
-
+{
+    "name": "Aetherium",
+    "version_number": "0.6.8",
+    "website_url": "https://github.com/KomradeSpectre/AetheriumMod",
+    "description": "A mod that currently adds tons of all new items, equipment, artifacts, and more to ROR2! SOTV patch update!",
+    "dependencies": [
+        "KomradeSpectre-Aetherium-0.6.8"
+    ]
+}
