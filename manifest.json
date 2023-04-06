@@ -1,8 +1,8 @@
 {
-    "name": "Aetherium",
-    "version_number": "0.6.8",
-    "website_url": "https://github.com/KomradeSpectre/AetheriumMod",
-    "description": "A mod that currently adds tons of all new items, equipment, artifacts, and more to ROR2! SOTV patch update!",
+    "name": "Lidless_Rain",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/niraethm/Lidless-Rain",
+    "description": "Risk of Rain 2 Modpack for Lidless",
     "dependencies": [
         "KomradeSpectre-Aetherium-0.6.8"
     ]
